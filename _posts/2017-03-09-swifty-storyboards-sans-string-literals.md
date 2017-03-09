@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Swifty Storyboards Sans String Literals"
-date:   2017-03-09 01:13:30 -0500
+date:   2017-03-09 04:33:00 -0500
 categories: storyboard string
 ---
 
